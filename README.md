@@ -1,3 +1,3 @@
 # PitchPerfect
 
-Udacity - iOS Developer Nanodegree
+Udacity - iOS Developer Nanodegree - PitchPerfect Project
